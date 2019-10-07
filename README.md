@@ -1,4 +1,4 @@
-# my_printf, my_dprintf
+# my_printf & my_dprintf
 
 {EPITECH.} first year project.
 
