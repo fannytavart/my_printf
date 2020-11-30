@@ -2,7 +2,7 @@
 
 {EPITECH.} first year project.
 
-C function that has the same behavior as the command `printf` or `dprintf`.
+C functions that have the same behavior as the command `printf` or `dprintf`.
 
 ## Requirements
 
